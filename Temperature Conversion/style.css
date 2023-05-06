@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+
+}
+body{
+    background: url('hot.jpg');
+    background-size: cover;
+}
+.container{
+margin-top: 200px;
+background-color: rgba(0, 0, 0, 0);
+margin-left: 450px;
+margin-right: 450px;
+/* padding-top: 100px; */
+/* padding-bottom: 100px; */
+border-radius: 15px;
+box-shadow: 0 0 30px black;
+
+}
+label{
+    font-size: 25px;
+   margin-left: 70px;
+
+}
+#temp{
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 2px;
+
+}
+#submit{
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border-radius: 5px;
+    border: 2px 2px black;
+    padding: 5px;
+    
+}
+.result{
+    margin-left:180px ;
+}
